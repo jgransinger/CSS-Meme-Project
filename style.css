@@ -1,0 +1,65 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h1 {
+    text-transform: capitalize;
+}
+
+.text {
+    columns: white;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+}
+
+.text {
+    font-family: "Libre Baskerville", serif;
+    color: white;  
+    text-align: center;
+}
+
+html {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+
+/*  CORRECT (but not my) SOLUTION BELOW : 
+-------------------------
+
+ body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .motivation-img {
+    border: 5px solid white;
+    width: 100%;
+  } */
+  
